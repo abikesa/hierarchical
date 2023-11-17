@@ -28,6 +28,14 @@
 2. Tokens
 3. Hacks
 
+```
+                      1. Genre
+                              \
+                   3. Mode ->  2. History -> 5. Voicing -> 6. Pocket
+                              /
+                               4. Qualities
+```
+
    ---
 
 ### [Super shoes](https://www.cnn.com/2023/11/03/sport/super-shoes-marathon-running-spt-intl/index.html) have ‘blown distance running into a new stratosphere.’ Are they benefitting the sport?
