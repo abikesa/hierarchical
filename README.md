@@ -1,3 +1,29 @@
+
+```
+   1. Physical vs. Meta
+                       \
+   3. Epistemology ->  2. Identity -> 5. Time -> 6. Change
+                       /
+                        4. Ontology
+```
+
+1. [Genre](https://www.youtube.com/watch?v=waqhq-IiUIo) 4:53/9:49
+2. History: Antiquarian, Monumental, Critical
+3. Mode
+4. Qualities
+5. Voicing
+6. Pocket
+
+```
+   1. Bayesian vs. Frequentist
+                              \
+          3. Hierarchical ->  2. Significance -> 5. Level: shrinkage vs. Variable: CLT -> 6. ICC vs. Parameter
+                              /
+                               4. Estimate
+```
+
+---
+
 1. Readme
 2. Tokens
 3. Hacks
