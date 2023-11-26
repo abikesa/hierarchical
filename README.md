@@ -11,7 +11,7 @@
 2. History: Antiquarian, Monumental, Critical
 3. Mode
 4. Qualities
-5. Voicing
+5. Voicing: Steve Jobs' [Apple](https://www.youtube.com/watch?v=f60dheI4ARg), Chords Inverted, Voicings Altered, Collaborative
 6. Pocket
 
 ```
