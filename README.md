@@ -2,24 +2,48 @@
 ```
    1. Physical vs. Meta
                        \
-   3. Epistemology ->  2. Identity -> 5. Time -> 6. Change
+   2. Epistemology ->  4. Identity -> 5. Time -> 6. Change
                        /
-                        4. Ontology
+                        3. Ontology
 ```
 
 1. [Genre](https://www.youtube.com/watch?v=waqhq-IiUIo) 4:53/9:49
-2. History: Antiquarian, Monumental, Critical
-3. Mode
-4. Qualities
-5. Voicing: Steve Jobs' [Apple](https://www.youtube.com/watch?v=f60dheI4ARg), Chords Inverted, Voicings Altered, Collaborative
-6. Pocket
+   - Constructs
+   - Validity
+   - Enlightenment
+     - Universal human [flourishing](https://www.youtube.com/watch?v=gNVm-oXFK9k)
+     - The dispute between me and Steve is what `unfettered reason` leads to
+     - `Limits` of reason
+     - Bounds
+2. Mode
+3. Qualities
+4. History
+   - Antiquarian
+   - Monumental
+   - Critical
+     - Individualism: Pinker
+       - No better alternative to individualism
+       - Steve Jobs might agree since the `user-experience` dominated his thinking
+       - As contrasted with Fortune 500 CIOs as a mediator between users & producers of computers
+     - Socialism: Mearsheimer
+       - Fundamentally competitive species
+         - Tribal
+         - National
+         - Mearsheimers reminds us of Frank Fukuyama's "end of history" case at end of the 1980s
+           - Pinker is optimistic in the same way just only 30 years later
+           - Fukuyama feared only bored where there's no more contests
+           - Obama and Clinton called politics a `contact sport`
+           - It's rather that the limits of reason guarantee that we'll remain human, all-too-human
+
+6. Voicing: Steve Jobs' [Apple](https://www.youtube.com/watch?v=f60dheI4ARg), Chords Inverted, Voicings Altered, Collaborative
+7. Pocket
 
 ```
    1. Bayesian vs. Frequentist
                               \
-          3. Hierarchical ->  2. Significance -> 5. Level: shrinkage vs. Variable: CLT -> 6. ICC vs. Parameter
+          2. Hierarchical ->  4. Significance -> 5. Level: shrinkage vs. Variable: CLT -> 6. ICC vs. Parameter
                               /
-                               4. Estimate
+                               3. Estimate
 ```
 
 ---
