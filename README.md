@@ -1,5 +1,13 @@
-                                         1. Resources
+                                               1. Root
                                                       \
-                                   2. Intelligence -> 4. Hierarchy -> Genius -> Adversary
+                                     2. Pentatonic -> 4. Chromatic -> Temperament -> Expression
                                                       /
-                                                      3. Strength
+                                                      3. Diatonic
+
+
+# Lower harmonics
+- 1st (Root/Protagonist), 3rd, 5th, 7th, 9th: Traditional, Worship, Blues (`Key`)
+# Mid-range harmonics
+- 11th, 13th: RnB (Dominants & `Off-Key`, Off-Beat Protagonist)
+# Higher harmonics
+- 17th, 19th plus alterations 9b, #9, #11, b13: Jazz (Scale, Narrative, `Dramatis`)
